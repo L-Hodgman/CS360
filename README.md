@@ -1,6 +1,7 @@
 # CS360
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
-  This Inventory App required to have a feature where the user could login, register a new account, add items to their inventory, change the quantity of an item, delete an item, and recieve a text notification when an item's quantity reached 0.
+
+  This Inventory App required to include features where the user could login, register a new account, add items to their inventory, change the quantity of an item, delete an item, and recieve a text notification when an item's quantity reached 0.
   
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
